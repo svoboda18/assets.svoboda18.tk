@@ -1,0 +1,2 @@
+/* Copyright (c) 2022, svoboda18.tk - SaMad SegMane. */
+!function(){"use strict";document.querySelectorAll(".lazyload")&&lazyload(),new Swiper(".portfolio-details-slider",{speed:800,loop:!0,autoplay:{delay:1e4,disableOnInteraction:!1},pagination:{el:".swiper-pagination",type:"bullets",clickable:!0}})}();
